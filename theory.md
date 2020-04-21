@@ -104,7 +104,9 @@ Yes, you may need to do pre-processing. Most probably, you will need to remove t
 **What are the methods for solving linear regression do you know? ‍⭐️**
 
 Answer here
-QR matrix decomposition, SVD(singular value decomposition) and pseudinverse
+
+1. QR matrix decomposition.
+2. SVD(singular value decomposition) and pseudoinverse
 
 <br/>
 
